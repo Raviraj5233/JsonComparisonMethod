@@ -1,0 +1,17 @@
+{
+  "employees":[
+    { "firstName":"Sudhir",
+      "lastName":"Doe"
+    }],
+  "Boss":[
+    { "officeName":"Qable",
+      "DeskNumber":"All"
+    }
+  ],
+  "Country":[
+    { "officeName":"VAD",
+      "Location":"India"
+    }
+  ]
+
+}

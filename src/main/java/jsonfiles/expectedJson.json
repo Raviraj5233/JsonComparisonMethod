@@ -1,0 +1,16 @@
+{
+  "employees":[
+    { "firstName":"Sudhir",
+      "IDNumber":"Doe"
+    }],
+  "Boss":[
+    { "officeName":"Qable",
+      "DeskNumber":"All"
+    }
+  ],
+  "Client":[
+    { "officeName":"VAD",
+      "Location":"Dubai"
+    }
+  ]
+}
